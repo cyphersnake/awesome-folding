@@ -180,6 +180,7 @@ Code implementations and explorations related to the Nova proof system, includin
 - *Talk*: [ZKP MOOC Lecture 10: Recursive SNARKs](https://www.youtube.com/watch?v=0LW-qeVe6QI)
 - *Talk*: [ZK Summit 10: "Recent advances in folding schemes" (Liam Eager)](https://www.youtube.com/watch?v=mqBkhZGNkis)
 - *Talk*: [ZK Summit 10: "Visual ProtoStar" (Adrian Hamelink)](https://www.youtube.com/watch?v=Arg63wKiS5g)
+- *Talk*: [Zero-knowledge proof composition and recursion (David Wong)](https://www.youtube.com/playlist?list=PLBJMt6zV1c7GeKkR2SUhzx9KSJ9TsEx6n)
 
 #### Zuzalu talks
 
